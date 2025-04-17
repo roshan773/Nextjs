@@ -1,40 +1,38 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Next.js Project - Webpage
 
-## Getting Started
+This project is built using **Next.js**, a powerful React framework that enables fast and scalable web applications with built-in support for server-side rendering, API routes, and static site generation.
 
-First, run the development server:
+## 📌 About Next.js
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js is a full-stack framework for React that enables:
+- Hybrid static & server rendering
+- Route-based code splitting
+- API routes with built-in Node.js server support
+- Built-in image optimization
+- Support for TypeScript, SCSS, and more
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Learn more here: [https://nextjs.org](https://nextjs.org)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🚀 Project Details
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This repository contains multiple Next.js-based mini-projects. Each project is organized as a separate folder under the main repo.
 
-## Learn More
+Current Project:
+### 📁 `webpage/`
+This is a basic Next.js app with the following pages:
+- Home
+- About
+- Product
+- Contact
 
-To learn more about Next.js, take a look at the following resources:
+Includes:
+- Responsive Navbar
+- TailwindCSS for styling
+- Image optimization with `next/image`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Getting Started
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Nextjs
->>>>>>> 75d3ca503f2d21e5beba78f7f2053de3a382d85d
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/roshan773/Nextjs.git
+   cd Nextjs/webpage
